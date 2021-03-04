@@ -1,7 +1,7 @@
 package com.fxz.poi;
 
 /**
- * 描述：
+ * 描述：学生Excel实体类
  *
  * @author Fang
  * @date 2021-02-07 17:58:33
